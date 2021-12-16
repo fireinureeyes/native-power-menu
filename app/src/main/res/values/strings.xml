@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Native Power Menu</string>
+    <string name="accessibility_service_description">The following feature is enabled with accessibility:\n-opening of power menu\n\nThis can be utilised by a disabled person (for example with limited motor skills) to choose the device power mode to make using their device easier.\n\nTo keep this functionality working, this setting needs to remain on.</string>
+    <string name="instructions">Please enable the accessibility service for this app to work. Tap on NATIVE POWER MENU, then the switch.</string>
+    <string name="setting_finished">Setting up finished. You can now close this settings window.</string>
+    <string name="error_message">Something went wrong. Please restart the app and try again.</string>
+</resources>
